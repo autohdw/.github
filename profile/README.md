@@ -3,7 +3,7 @@ Auto hardare toward design automation.
 A research team of [Southeast University](https://www.seu.edu.cn/english/).
 
 ## Publications
-1. Y. Mao *et al.*, **FLAG: Formula-LLM-Based Auto-Generator for Baseband Hardware**, *IEEE International Symposium on Circuits and Systems (ISCAS)*, 2024. To appear.
+1. Y. Mao *et al.*, [**FLAG: Formula-LLM-Based Auto-Generator for Baseband Hardware**](https://epapers2.org/iscas2024/ESR/paper_details.php?paper_id=2069), *IEEE International Symposium on Circuits and Systems (ISCAS)*, 2024.
 2. [W. Zhao](https://wqzhao.org) *et al.*, [**Flexible High-Level Synthesis Library for Linear Transformations**](https://ieeexplore.ieee.org/document/10437992),
   *IEEE Transactions on Circuits and Systems II: Express Briefs (TCAS-II)*, 2024.
    [[IEEE Xplore](https://ieeexplore.ieee.org/document/10437992)]
