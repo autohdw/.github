@@ -1,5 +1,5 @@
 # AutoHDW
-Auto hardware toward design automation.
+Toward hardware design automation.
 A research team of [Southeast University](https://www.seu.edu.cn/english/).
 
 ## Publications
